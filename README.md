@@ -1,6 +1,6 @@
 # homebrew-tap
 
-Homebrew tap for [Claude Command Center (CCC)](https://github.com/amirfish1/claude-command-center) — one local dashboard for every Claude Code, Codex, and Antigravity session on your Mac.
+Homebrew tap for [Claude Command Center (CCC)](https://github.com/amirfish1/claude-command-center): it puts coding agents on call for your product.
 
 ## Install
 

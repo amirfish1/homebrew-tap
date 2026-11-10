@@ -1,5 +1,5 @@
 class Ccc < Formula
-  desc "Local command center for every Claude, Codex, and Antigravity session"
+  desc "Coding agents on call for your product; real decisions reach you by message"
   homepage "https://github.com/amirfish1/claude-command-center"
   url "https://github.com/amirfish1/claude-command-center/archive/refs/tags/v5.44.0.tar.gz"
   sha256 "362b0883d7a599869779d630c7f3b9fee7b9534593b63bd21ac5efd73fb66b79"
