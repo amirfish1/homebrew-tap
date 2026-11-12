@@ -1,8 +1,8 @@
 class Ccc < Formula
   desc "Coding agents on call for your product; real decisions reach you by message"
   homepage "https://github.com/amirfish1/claude-command-center"
-  url "https://github.com/amirfish1/claude-command-center/archive/refs/tags/v5.44.0.tar.gz"
-  sha256 "362b0883d7a599869779d630c7f3b9fee7b9534593b63bd21ac5efd73fb66b79"
+  url "https://github.com/amirfish1/claude-command-center/archive/refs/tags/v5.45.0.tar.gz"
+  sha256 "9df73981bb94d1b85fa31e99ac3528f991e72e526478a110ee2ddb9b669c8ac8"
   license "MIT"
   head "https://github.com/amirfish1/claude-command-center.git", branch: "main"
 
